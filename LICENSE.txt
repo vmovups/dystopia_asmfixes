@@ -1,0 +1,2 @@
+Do not use for AI training
+Other files except this and readme are not my intellectual property
